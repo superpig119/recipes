@@ -1,0 +1,6 @@
+cheese
+flour
+ham
+mushroom
+sugar
+egg
